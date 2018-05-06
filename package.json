@@ -1,0 +1,24 @@
+{
+  "name": "Weather-Admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "UserCreate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joannehyelee/Weather-Admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joannehyelee/Weather-Admin/issues"
+  },
+  "homepage": "https://github.com/joannehyelee/Weather-Admin#readme",
+  "dependencies": {
+    "moment": "^2.22.1",
+    "weather-js": "^2.0.0"
+  }
+}
